@@ -1,0 +1,65 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+    @Scripts.Render("~/bundles/jquery")
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $('form').submit(function (e) {
+                e.preventDefault();
+                var album = {};
+                album.AlbumName = $("#name").val();
+                album.Artist = $("#artist").val();
+                album.Year = $("#year").val();
+                album.Price = $("#price").val();
+                var url = window.location.protocol + '//' + window.location.host + '/api/albums';
+                $.ajax({
+                    url: url,
+                    type: 'post',
+                    contentType: 'application/json',
+                    dataType: 'json',
+                    data: JSON.stringify(album)
+                }).success(function (data, status, xhr) {
+                    alert('success:' + data);
+                }).error(function (error) {
+                    alert('error');
+                });
+            })
+        });
+    </script>
+</head>
+<body>
+   Enter album details
+    <form method="post">
+    <table>
+        <tr>
+            <td>Album Name</td>
+            <td><input type="text" id="name"></td>
+        </tr>
+         <tr>
+            <td>Artist</td>
+            <td><input type="text" id="artist"></td>
+        </tr>
+         <tr>
+            <td>Year</td>
+            <td>
+              <input type="date" id="year" >
+            </td>
+        </tr>
+         <tr>
+            <td>Price</td>
+            <td><input type="text" id="price"></td>
+        </tr>
+        <tr>
+            <td colspan="2">
+             <input id="btnSubmit" type="submit" value="Add Album" />
+            </td>
+        </tr>
+    </table>
+        </form>
+</body>
+</html>

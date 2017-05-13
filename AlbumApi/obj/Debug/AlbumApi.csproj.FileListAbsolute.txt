@@ -1,0 +1,69 @@
+c:\Users\ccit\documents\visual studio 2012\Projects\AlbumApi\AlbumApi\bin\AlbumApi.dll
+c:\Users\ccit\documents\visual studio 2012\Projects\AlbumApi\AlbumApi\bin\AlbumApi.pdb
+c:\Users\ccit\documents\visual studio 2012\Projects\AlbumApi\AlbumApi\bin\Antlr3.Runtime.dll
+c:\Users\ccit\documents\visual studio 2012\Projects\AlbumApi\AlbumApi\bin\DataTier.dll
+c:\Users\ccit\documents\visual studio 2012\Projects\AlbumApi\AlbumApi\bin\EntityFramework.dll
+c:\Users\ccit\documents\visual studio 2012\Projects\AlbumApi\AlbumApi\bin\Microsoft.Web.Infrastructure.dll
+c:\Users\ccit\documents\visual studio 2012\Projects\AlbumApi\AlbumApi\bin\Newtonsoft.Json.dll
+c:\Users\ccit\documents\visual studio 2012\Projects\AlbumApi\AlbumApi\bin\System.Net.Http.Formatting.dll
+c:\Users\ccit\documents\visual studio 2012\Projects\AlbumApi\AlbumApi\bin\System.Web.Helpers.dll
+c:\Users\ccit\documents\visual studio 2012\Projects\AlbumApi\AlbumApi\bin\System.Web.Http.dll
+c:\Users\ccit\documents\visual studio 2012\Projects\AlbumApi\AlbumApi\bin\System.Web.Http.WebHost.dll
+c:\Users\ccit\documents\visual studio 2012\Projects\AlbumApi\AlbumApi\bin\System.Web.Mvc.dll
+c:\Users\ccit\documents\visual studio 2012\Projects\AlbumApi\AlbumApi\bin\System.Web.Optimization.dll
+c:\Users\ccit\documents\visual studio 2012\Projects\AlbumApi\AlbumApi\bin\System.Web.Providers.dll
+c:\Users\ccit\documents\visual studio 2012\Projects\AlbumApi\AlbumApi\bin\System.Web.Razor.dll
+c:\Users\ccit\documents\visual studio 2012\Projects\AlbumApi\AlbumApi\bin\System.Web.WebPages.Deployment.dll
+c:\Users\ccit\documents\visual studio 2012\Projects\AlbumApi\AlbumApi\bin\System.Web.WebPages.dll
+c:\Users\ccit\documents\visual studio 2012\Projects\AlbumApi\AlbumApi\bin\System.Web.WebPages.Razor.dll
+c:\Users\ccit\documents\visual studio 2012\Projects\AlbumApi\AlbumApi\bin\WebGrease.dll
+c:\Users\ccit\documents\visual studio 2012\Projects\AlbumApi\AlbumApi\bin\DataTier.pdb
+c:\Users\ccit\documents\visual studio 2012\Projects\AlbumApi\AlbumApi\bin\EntityFramework.xml
+c:\Users\ccit\documents\visual studio 2012\Projects\AlbumApi\AlbumApi\bin\Newtonsoft.Json.xml
+c:\Users\ccit\documents\visual studio 2012\Projects\AlbumApi\AlbumApi\bin\System.Net.Http.Formatting.xml
+c:\Users\ccit\documents\visual studio 2012\Projects\AlbumApi\AlbumApi\bin\System.Web.Helpers.xml
+c:\Users\ccit\documents\visual studio 2012\Projects\AlbumApi\AlbumApi\bin\System.Web.Http.xml
+c:\Users\ccit\documents\visual studio 2012\Projects\AlbumApi\AlbumApi\bin\System.Web.Http.WebHost.xml
+c:\Users\ccit\documents\visual studio 2012\Projects\AlbumApi\AlbumApi\bin\System.Web.Mvc.xml
+c:\Users\ccit\documents\visual studio 2012\Projects\AlbumApi\AlbumApi\bin\System.Web.Razor.xml
+c:\Users\ccit\documents\visual studio 2012\Projects\AlbumApi\AlbumApi\bin\System.Web.WebPages.xml
+c:\Users\ccit\documents\visual studio 2012\Projects\AlbumApi\AlbumApi\bin\System.Web.WebPages.Deployment.xml
+c:\Users\ccit\documents\visual studio 2012\Projects\AlbumApi\AlbumApi\bin\System.Web.WebPages.Razor.xml
+c:\Users\ccit\documents\visual studio 2012\Projects\AlbumApi\AlbumApi\obj\Debug\AlbumApi.csprojResolveAssemblyReference.cache
+c:\Users\ccit\documents\visual studio 2012\Projects\AlbumApi\AlbumApi\obj\Debug\AlbumApi.dll
+c:\Users\ccit\documents\visual studio 2012\Projects\AlbumApi\AlbumApi\obj\Debug\AlbumApi.pdb
+C:\Users\Aditya\Desktop\Asp . Net proj\AlbumApi\AlbumApi\bin\AlbumApi.dll.config
+C:\Users\Aditya\Desktop\Asp . Net proj\AlbumApi\AlbumApi\bin\AlbumApi.dll
+C:\Users\Aditya\Desktop\Asp . Net proj\AlbumApi\AlbumApi\bin\AlbumApi.pdb
+C:\Users\Aditya\Desktop\Asp . Net proj\AlbumApi\AlbumApi\bin\Antlr3.Runtime.dll
+C:\Users\Aditya\Desktop\Asp . Net proj\AlbumApi\AlbumApi\bin\DataTier.dll
+C:\Users\Aditya\Desktop\Asp . Net proj\AlbumApi\AlbumApi\bin\EntityFramework.dll
+C:\Users\Aditya\Desktop\Asp . Net proj\AlbumApi\AlbumApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Aditya\Desktop\Asp . Net proj\AlbumApi\AlbumApi\bin\Newtonsoft.Json.dll
+C:\Users\Aditya\Desktop\Asp . Net proj\AlbumApi\AlbumApi\bin\System.Net.Http.Formatting.dll
+C:\Users\Aditya\Desktop\Asp . Net proj\AlbumApi\AlbumApi\bin\System.Web.Helpers.dll
+C:\Users\Aditya\Desktop\Asp . Net proj\AlbumApi\AlbumApi\bin\System.Web.Http.dll
+C:\Users\Aditya\Desktop\Asp . Net proj\AlbumApi\AlbumApi\bin\System.Web.Http.WebHost.dll
+C:\Users\Aditya\Desktop\Asp . Net proj\AlbumApi\AlbumApi\bin\System.Web.Mvc.dll
+C:\Users\Aditya\Desktop\Asp . Net proj\AlbumApi\AlbumApi\bin\System.Web.Optimization.dll
+C:\Users\Aditya\Desktop\Asp . Net proj\AlbumApi\AlbumApi\bin\System.Web.Providers.dll
+C:\Users\Aditya\Desktop\Asp . Net proj\AlbumApi\AlbumApi\bin\System.Web.Razor.dll
+C:\Users\Aditya\Desktop\Asp . Net proj\AlbumApi\AlbumApi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Aditya\Desktop\Asp . Net proj\AlbumApi\AlbumApi\bin\System.Web.WebPages.dll
+C:\Users\Aditya\Desktop\Asp . Net proj\AlbumApi\AlbumApi\bin\System.Web.WebPages.Razor.dll
+C:\Users\Aditya\Desktop\Asp . Net proj\AlbumApi\AlbumApi\bin\WebGrease.dll
+C:\Users\Aditya\Desktop\Asp . Net proj\AlbumApi\AlbumApi\bin\DataTier.pdb
+C:\Users\Aditya\Desktop\Asp . Net proj\AlbumApi\AlbumApi\bin\EntityFramework.xml
+C:\Users\Aditya\Desktop\Asp . Net proj\AlbumApi\AlbumApi\bin\Newtonsoft.Json.xml
+C:\Users\Aditya\Desktop\Asp . Net proj\AlbumApi\AlbumApi\bin\System.Net.Http.Formatting.xml
+C:\Users\Aditya\Desktop\Asp . Net proj\AlbumApi\AlbumApi\bin\System.Web.Helpers.xml
+C:\Users\Aditya\Desktop\Asp . Net proj\AlbumApi\AlbumApi\bin\System.Web.Http.xml
+C:\Users\Aditya\Desktop\Asp . Net proj\AlbumApi\AlbumApi\bin\System.Web.Http.WebHost.xml
+C:\Users\Aditya\Desktop\Asp . Net proj\AlbumApi\AlbumApi\bin\System.Web.Mvc.xml
+C:\Users\Aditya\Desktop\Asp . Net proj\AlbumApi\AlbumApi\bin\System.Web.Razor.xml
+C:\Users\Aditya\Desktop\Asp . Net proj\AlbumApi\AlbumApi\bin\System.Web.WebPages.xml
+C:\Users\Aditya\Desktop\Asp . Net proj\AlbumApi\AlbumApi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Aditya\Desktop\Asp . Net proj\AlbumApi\AlbumApi\bin\System.Web.WebPages.Razor.xml
+C:\Users\Aditya\Desktop\Asp . Net proj\AlbumApi\AlbumApi\obj\Debug\AlbumApi.csprojResolveAssemblyReference.cache
+C:\Users\Aditya\Desktop\Asp . Net proj\AlbumApi\AlbumApi\obj\Debug\AlbumApi.dll
+C:\Users\Aditya\Desktop\Asp . Net proj\AlbumApi\AlbumApi\obj\Debug\AlbumApi.pdb

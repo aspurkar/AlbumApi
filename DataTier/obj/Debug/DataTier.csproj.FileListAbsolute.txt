@@ -1,0 +1,5 @@
+c:\Users\ccit\documents\visual studio 2012\Projects\AlbumApi\DataTier\bin\Debug\DataTier.dll
+c:\Users\ccit\documents\visual studio 2012\Projects\AlbumApi\DataTier\bin\Debug\DataTier.pdb
+c:\Users\ccit\documents\visual studio 2012\Projects\AlbumApi\DataTier\obj\Debug\DataTier.dll
+c:\Users\ccit\documents\visual studio 2012\Projects\AlbumApi\DataTier\obj\Debug\DataTier.pdb
+C:\Users\ccit\Documents\Visual Studio 2012\Projects\AlbumApi\DataTier\obj\Debug\DataTier.csprojResolveAssemblyReference.cache
